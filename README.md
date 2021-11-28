@@ -1,4 +1,4 @@
-### Hey ! I'm Felipe Donizete
+### Hi ! I'm Felipe Donizete
 
 <br>
 
