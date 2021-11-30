@@ -1,9 +1,10 @@
-### Hi ! I'm Felipe Donizete
+### Oi ! Sou o Donizete !
 
 <br>
 
--  🌱 Currently learning JS and JS frameworks. Focused on Front-End !
-
+-  🌱 Atualmente aprendendo sobre JS e seus frameworks.
+-  👾 Futuros projetos utilizando SQL.
+-  💪 Foco em Front-End.
 
 ##
 
