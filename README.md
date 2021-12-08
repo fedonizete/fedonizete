@@ -3,7 +3,6 @@
 <br>
 
 -  🌱 Atualmente aprendendo sobre JS e seus frameworks.
--  👾 Futuros projetos utilizando SQL.
 -  💪 Foco em Front-End.
 
 ##
