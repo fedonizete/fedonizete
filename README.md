@@ -2,7 +2,7 @@
 
 <br>
 
--  🌱 Atualmente aprendendo sobre JS e seus frameworks.
+-  🌱 Atualmente desenvolvendo em JS e REACT.
 -  💪 Foco em Front-End.
 
 ##
