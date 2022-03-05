@@ -4,6 +4,7 @@
 
 -  🌱 Atualmente desenvolvendo em JS e REACT.
 -  💪 Foco em Front-End.
+-  📚 Atualmente estudando MySQL
 
 ##
 
