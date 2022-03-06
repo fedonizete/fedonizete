@@ -4,7 +4,7 @@
 
 -  🌱 Atualmente desenvolvendo em JS e REACT.
 -  💪 Foco em Front-End.
--  📚 Estudando sobre SQL, Node e BootsTrap.
+-  📚 Estudando sobre SQL, Node e Bootstrap.
 
 ##
 
