@@ -2,10 +2,8 @@
 
 <br>
 
--  🌱 Atualmente desenvolvendo em JS e REACT.
--  📌 Conhecimento em  GIT e Bootstrap.
--  📚 Estudando API Rest e Sass.
--  💪 Foco em Front-End.
+-  📌 Conhecimento em JS, React, GIT, Bootstrap e Sass.
+-  📚 Estudando C#.
 
 ##
 
