@@ -2,7 +2,7 @@
 
 <br>
 
--  📌 Conhecimento em JS, React, GIT, Bootstrap e Sass.
+-  📌 Conhecimento em JS, React, GIT, Bootstrap, Sass e SQL.
 -  📚 Estudando C#.
 
 ##
