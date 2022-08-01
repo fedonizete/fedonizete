@@ -3,7 +3,7 @@
 <br>
 
 -  📌 Conhecimento em JS, React, GIT, Bootstrap, Sass e SQL.
--  📚 Estudando .NET.
+-  📚 Estudando ASP.NET Core.
 
 ##
 
