@@ -1,9 +1,8 @@
-### Olá, sou o Donizete!
+### Olá, eu sou o Donizete!
 
 <br>
 
--  📌 Conhecimento em JS, React, GIT, Bootstrap, Sass e SQL.
--  📚 Estudando ASP.NET Core.
+-  📌 Conhecimento em JS, ASP.NET Core - MVC, Java e SQL.
 
 ##
 
